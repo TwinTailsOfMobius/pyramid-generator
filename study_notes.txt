@@ -1,0 +1,18 @@
+# JavaScript Notes
+# August 28 2024
+# freeCodeCamp
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.JS most used to write logic instead of markup. 
+.a Variable points to a specific memory address that stores a value. 
+.declare a variable with 'let'. (let hello;)
+.initialization : assigning a value to a variable at the moment of declaration. 
+
+.JS has 7 primitive data types
+.strings are immutable. 
+.default value of an uninitialized variable = undefined.
+
+.an array is a non-primitive data type. 
+.non-primitive data types can hold more complex data. 
+.primitive data types can only hold 1 value at a time. 
+.you can access the values inside an array using the index of the value; starting from 0. 
