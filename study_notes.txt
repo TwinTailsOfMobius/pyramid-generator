@@ -16,3 +16,6 @@
 .non-primitive data types can hold more complex data. 
 .primitive data types can only hold 1 value at a time. 
 .you can access the values inside an array using the index of the value; starting from 0. 
+
+.when a method returns a value, you can think of it as giving the value back to you, making it available for use in other parts of your code. 
+.an important thing to know about the return keyword is that it does not just define a value to be returned from your function, it also stops the execution of your code inside a function or a block statement. This means any code after a return statement will not run.
